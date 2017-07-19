@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "548DF5DD1E6519B500C83CE4"
-               BuildableName = "flexiuminspection.app"
+               BuildableName = "&#x5ee0;&#x5340;&#x5de1;&#x6aa2;.app"
                BlueprintName = "flexiuminspection"
                ReferencedContainer = "container:flexiuminspection.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "548DF5DD1E6519B500C83CE4"
-            BuildableName = "flexiuminspection.app"
+            BuildableName = "&#x5ee0;&#x5340;&#x5de1;&#x6aa2;.app"
             BlueprintName = "flexiuminspection"
             ReferencedContainer = "container:flexiuminspection.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "548DF5DD1E6519B500C83CE4"
-            BuildableName = "flexiuminspection.app"
+            BuildableName = "&#x5ee0;&#x5340;&#x5de1;&#x6aa2;.app"
             BlueprintName = "flexiuminspection"
             ReferencedContainer = "container:flexiuminspection.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "548DF5DD1E6519B500C83CE4"
-            BuildableName = "flexiuminspection.app"
+            BuildableName = "&#x5ee0;&#x5340;&#x5de1;&#x6aa2;.app"
             BlueprintName = "flexiuminspection"
             ReferencedContainer = "container:flexiuminspection.xcodeproj">
          </BuildableReference>

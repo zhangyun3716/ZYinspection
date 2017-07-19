@@ -1,15 +1,22 @@
-//
-//  ViewController.h
-//  flexiuminspection
-//
-//  Created by flexium on 2017/2/28.
-//  Copyright © 2017年 FLEXium. All rights reserved.
-//
+/*
+ *	_________         __       __
+ * |______  /         \ \     / /
+ *       / /           \ \   / /
+ *      / /             \ \ / /
+ *     / /               \   /
+ *    / /                 | |
+ *   / /                  | |
+ *  / /_________          | |
+ * /____________|         |_|
+ *
+ Copyright (c) 2011 ~ 2016 zhangyun. All rights reserved.
+ */
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UINavigationControllerDelegate, UIImagePickerControllerDelegate,UITableViewDataSource,UITableViewDelegate,NSXMLParserDelegate>
 
+@property(nonatomic,strong)NSString *emp_no;
 
 @end
 
